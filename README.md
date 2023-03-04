@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-n3m0" alt="captain-n3m0" /></a> </p>
 
-- 🔭 I’m currently working on **Drone Face Recognition Project**
+- 🔭 I’m currently working on **Drone Face Recognition Project , Embedded Devices**
 
 - 🌱 I’m currently learning **Electronics**
 
