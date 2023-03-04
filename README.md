@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/3orifeSGD9fkfc9qLu" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-14-the-simpsons-14x3-3orifeSGD9fkfc9qLu">via GIPHY</a></p>
+[![MasterHead](https://media2.giphy.com/media/FcJQf9tOzGaGaggIIq/giphy.gif?cid=ecf05e472w8uob9bxq4yipnuvfqswbl7b1s9nnn2i9b8x4ld&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Debjit Naskar</h1>
 <h3 align="center">DevSecOps Engineer</h3>
 
