@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/FcJQf9tOzGaGaggIIq/giphy.gif?cid=ecf05e472w8uob9bxq4yipnuvfqswbl7b1s9nnn2i9b8x4ld&rid=giphy.gif&ct=g)]
+[![MasterHead](https://media0.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e474zkamhmnfvpng7516zdl2ty9j5xaztrg7d2rfsdp&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Debjit Naskar</h1>
 <h3 align="center">DevSecOps Engineer</h3>
 
