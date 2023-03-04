@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-n3m0&label=Profile%20views&color=0e75b6&style=flat" alt="captain-n3m0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-n3m0" alt="captain-n3m0" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=captain-n3m0&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Drone Face Recognition Project , Embedded Devices**
 
