@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Debjit Naskar</h1>
-<h3 align="center">I code to break the system</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-n3m0&label=Profile%20views&color=0e75b6&style=flat" alt="captain-n3m0" /> </p>
 
