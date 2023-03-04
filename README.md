@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e474zkamhmnfvpng7516zdl2ty9j5xaztrg7d2rfsdp&rid=giphy.gif&ct=g)]
+[![MasterHead] align="center"(https://media0.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=ecf05e474zkamhmnfvpng7516zdl2ty9j5xaztrg7d2rfsdp&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi, I'm Debjit Naskar</h1>
 <h3 align="center">I code to break the system</h3>
 
