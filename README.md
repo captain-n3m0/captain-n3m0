@@ -26,7 +26,7 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-n3m0&show_icons=true&locale=en&layout=compact&theme=great-gatsby&hide_border=true" alt="captain-n3m0" />
 </div>
-<div align=left>
+<div align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=captain-n3m0&theme=great-gatsby&hide_border=true" alt="captain-n3m0" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=captain-n3m0&show_icons=true&locale=en&theme=great-gatsby&hide_border=true" alt="captain-n3m0" />
 </div>
 
