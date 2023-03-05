@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-n3m0&show_icons=true&locale=en" alt="captain-n3m0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captain-n3m0&" alt="captain-n3m0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captain-n3m0&theme=windows-dark&hide_border=true" alt="captain-n3m0" /></p>
 
