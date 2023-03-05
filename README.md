@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Debjit Naskar</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/captain-n3m0/captain-n3m0/master/images/header/github-header-image.png" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-n3m0&label=Profile%20views&color=0e75b6&style=flat" alt="captain-n3m0" /> </p>
 
