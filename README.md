@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/captain-n3m0/captain-n3m0/master/images/header/github-header-image.png" /></p>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=captain-n3m0.captain-n3m0" alt="captain-n3m0" /> </p>
 
