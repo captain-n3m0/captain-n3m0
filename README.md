@@ -6,27 +6,40 @@
 
 
 
-
-
-
-
-
-
-
-
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=captain-n3m0.captain-n3m0" alt="captain-n3m0" /> </p>
 
-<h3 align="center">GitHub Trophies</h3>
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=captain-n3m0&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+```python
+  class WhoAmI:
+    user = 'Egoistic N34D'
+	current_edu = "RCCIIT"
+    currently_learning = "to live life"
+    fun_fact = " i don't care"
+	hobbies = [
+				'Music',
+        'Coding',
+			 	'Linux+SomeHomeLabShit',
+				'Coding'
+			]
+	
+	def getCity():
+		return Kolkata_WestBengal_India()
+	
+	def Ambitions():
+		i don't have any ambitions i just enjoy being a nerd()
+		make money be rich without doing something sketchy()
+	
+ ```
+
+
+
+
 
 - 🔭 I’m currently working on **Drone Face Recognition Project , Embedded Devices**
 
 - 🌱 I’m currently learning **Electronics**
 
-- 📫 How to reach me **debjitnaskar@icloud.com**
+- 📫 How to reach me **don'treachme@no-mail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
