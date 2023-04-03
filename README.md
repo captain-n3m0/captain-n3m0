@@ -17,7 +17,7 @@
     fun_fact = " i don't care"
 	hobbies = [
 				'Music',
-        'Coding',
+        			'Coding',
 			 	'Linux+SomeHomeLabShit',
 				'Coding'
 			]
