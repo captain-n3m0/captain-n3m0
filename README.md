@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning **Electronics**
 
-- 📫 How to reach me **debjitnaskar@icloud.com** Please Don't
+- 📫 How to reach me **debjitnaskar@icloud.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
