@@ -11,7 +11,7 @@
 
 ```python
   class WhoAmI:
-    user = 'Egoistic N34D'
+    user = 'N3M0'
     current_edu = "RCCIIT"
     currently_learning = "to live life"
     fun_fact = " i don't care"
@@ -26,7 +26,6 @@
 	
 	def Ambitions():
 		i don't have any ambitions i just enjoy being a nerd()
-		make money be rich without doing something sketchy()
 	
  ```
 
