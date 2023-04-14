@@ -12,15 +12,14 @@
 ```python
   class WhoAmI:
     user = 'Egoistic N34D'
-	current_edu = "RCCIIT"
+    current_edu = "RCCIIT"
     currently_learning = "to live life"
     fun_fact = " i don't care"
-	hobbies = [
-				'Music',
-        			'Coding',
-			 	'Linux+SomeHomeLabShit',
-				'Coding'
-			]
+    hobbies = [
+		'Music',
+        	'Coding',
+		'Linux+SomeHomeLabShit',
+		'Coding']
 	
 	def getCity():
 		return Kolkata_WestBengal_India()
