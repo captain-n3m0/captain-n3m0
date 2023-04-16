@@ -12,7 +12,7 @@
 ```python
   class WhoAmI:
     user = 'N3M0'
-    current_edu = "RCCIIT"
+    current_edu = "unknown"
     currently_learning = "to live life"
     fun_fact = " i don't care"
     hobbies = [
@@ -20,9 +20,6 @@
         	'Coding',
 		'Linux+SomeHomeLabShit',
 		'Coding']
-	
-	def getCity():
-		return Kolkata_WestBengal_India()
 	
 	def Ambitions():
 		i don't have any ambitions i just enjoy being a nerd()
