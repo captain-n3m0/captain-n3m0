@@ -19,7 +19,8 @@
 		'Music',
         	'Coding',
 		'Linux+SomeHomeLabShit',
-		'Coding']
+		'Penetration_Tester'
+		'Hacker']
 	
 	def Ambitions():
 		i don't have any ambitions i just enjoy being a nerd()
